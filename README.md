@@ -207,21 +207,35 @@ For smoother AR performance, use **Release Mode** and reduce unused 3D assets du
 
 ---
 
-### 🖼️ Prototype Pics
+### 🖼️ Prototype
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<br><br> <!-- Adds vertical space for cleaner layout -->
+  <figure style="flex: 1 1 300px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/bc129bb5-b87f-4236-a2f7-0c5f0922d461" alt="Prototype Image 1" style="width:100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <figcaption>Home Screen</figcaption>
+  </figure>
 
+  <figure style="flex: 1 1 300px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/f85e7719-5a22-4058-8d89-eacdead5bc4a" alt="Prototype Image 2" style="width:100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <figcaption>Feature Overview</figcaption>
+  </figure>
 
-![WhatsApp Image 2025-10-11 at 17 36 05_9482ac36](https://github.com/user-attachments/assets/bc129bb5-b87f-4236-a2f7-0c5f0922d461)
+  <figure style="flex: 1 1 300px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/e4a799f3-6a17-47b9-814e-8185365e0e25" alt="Prototype Image 3" style="width:100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <figcaption>Settings Page</figcaption>
+  </figure>
 
-![WhatsApp Image 2025-10-11 at 17 36 57_aa3ecd36](https://github.com/user-attachments/assets/f85e7719-5a22-4058-8d89-eacdead5bc4a)
+  <figure style="flex: 1 1 300px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/efbae163-aeba-40aa-ac68-68a9ece29ffe" alt="Prototype Image 4" style="width:100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <figcaption>Interactive Demo</figcaption>
+  </figure>
 
-![WhatsApp Image 2025-10-13 at 00 11 52_ceceb179](https://github.com/user-attachments/assets/e4a799f3-6a17-47b9-814e-8185365e0e25)
+</div>
 
-![WhatsApp Image 2025-10-13 at 00 12 00_1b063f4f](https://github.com/user-attachments/assets/efbae163-aeba-40aa-ac68-68a9ece29ffe)
-
-<br><br> <!-- Adds more breathing room after the image gallery -->
+<p align="center" style="margin-top: 20px;">
+  <a href="https://github.com/user-attachments/assets/10957490-d5db-4b30-b055-cd9c433feb97" target="_blank">📁 View Full Prototype</a>
+</p>
 
 ---
 
