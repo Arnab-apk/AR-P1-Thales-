@@ -127,9 +127,12 @@ The **OrbitEd-AR** system is designed around an **offline-first modular architec
 
 ## 📱 How to Run the Mobile App
 
-Follow these steps to build and test **OrbitEd-AR** on your Android or iOS device:
+Follow these steps to build and test **OrbitEd-AR** on your Android or iOS device.
+
+---
 
 ### 🧩 Prerequisites
+
 - **Unity 2022.3 LTS or higher**  
 - **Android Studio / Xcode** (depending on target platform)  
 - **ARCore SDK (Android)** or **ARKit SDK (iOS)**  
@@ -138,6 +141,16 @@ Follow these steps to build and test **OrbitEd-AR** on your Android or iOS devic
   - Android 10.0+ or iOS 13+  
   - 3GB RAM or higher  
   - Camera + Motion sensors enabled  
+
+---
+
+## 👨‍🚀 Team OrbitEd (Team EdOrbit)
+
+| Role | Name |
+|------|------|
+| 🧭 **Team Lead** | **Debaditya Majumder** |
+| 🧑‍💻 **Developer & Research** | **Arnab Mandal** |
+| 🎨 **UI/UX & Documentation** | **Ankhi Bhattacharya** |
 
 ---
 
