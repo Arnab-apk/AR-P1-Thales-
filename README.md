@@ -1,7 +1,4 @@
-<!-- PROJECT LOGO & BANNER -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/OrbitEd-AR/main/docs/banner.png" alt="OrbitEd-AR Banner" width="100%">
-</p> -->
+
 
 <h1 align="center">🌍 OrbitEd-AR</h1>
 <h3 align="center">Inclusive AR-Based Aerospace, Space & Cybersecurity Education</h3>
@@ -83,3 +80,70 @@ Students can visualize **satellites, aircraft, and radar systems** in 3D, intera
 
 ## 🏗️ System Architecture
 
+The **OrbitEd-AR** system is designed around an **offline-first modular architecture** to ensure smooth performance, scalability, and accessibility — even in resource-limited environments.
+┌──────────────────────────────┐
+                    │         User Layer            │
+                    │  • AR-based 3D Learning UI    │
+                    │  • Gaze & Voice Interaction   │
+                    │  • Multilingual Audio/Text    │
+                    └─────────────┬────────────────┘
+                                  │
+                   ┌──────────────┴────────────────┐
+                   │     Application Layer         │
+                   │  • Unity3D AR Foundation SDK  │
+                   │  • Scene & Object Management  │
+                   │  • Offline Data Caching       │
+                   └──────────────┬────────────────┘
+                                  │
+                   ┌──────────────┴────────────────┐
+                   │        AI & Logic Layer        │
+                   │  • LLMUnity / ONNX Runtime     │
+                   │  • Adaptive Tutor Engine       │
+                   │  • Knowledge Graph + NLP       │
+                   └──────────────┬────────────────┘
+                                  │
+                   ┌──────────────┴────────────────┐
+                   │    Localization & Accessibility│
+                   │  • Unity Localization System   │
+                   │  • PocketSphinx (Speech-to-Text)│
+                   │  • eSpeak (Text-to-Speech)     │
+                   │  • Gaze & Touch Controls       │
+                   └──────────────┬────────────────┘
+                                  │
+                   ┌──────────────┴────────────────┐
+                   │     Data & Storage Layer       │
+                   │  • Local JSON/SQLite Storage   │
+                   │  • Encrypted User Profiles     │
+                   │  • AR Asset Bundles (Offline)  │
+                   └────────────────────────────────┘
+
+### 🔧 Architectural Highlights
+- **Offline-First Engine**: All educational content and AI models are stored locally.  
+- **Modular 3D Assets**: New AR modules can be added without modifying the main app.  
+- **AI Tutor**: Uses lightweight on-device inference for adaptive question answering.  
+- **Scalable Localization**: Easily extendable for new Indian languages and dialects.  
+
+---
+
+## 📱 How to Run the Mobile App
+
+Follow these steps to build and test **OrbitEd-AR** on your Android or iOS device:
+
+### 🧩 Prerequisites
+- **Unity 2022.3 LTS or higher**  
+- **Android Studio / Xcode** (depending on target platform)  
+- **ARCore SDK (Android)** or **ARKit SDK (iOS)**  
+- **ONNX Runtime for Unity**  
+- **Minimum Device Requirements**:  
+  - Android 10.0+ or iOS 13+  
+  - 3GB RAM or higher  
+  - Camera + Motion sensors enabled  
+
+---
+
+### ⚙️ Setup Instructions
+
+#### 🖥️ Step 1: Clone the Repository
+```bash
+git clone https://github.com/<your-username>/OrbitEd-AR.git
+cd OrbitEd-AR
