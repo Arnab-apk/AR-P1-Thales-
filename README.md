@@ -206,11 +206,23 @@ Follow these steps to set up and run **OrbitEd-AR** seamlessly on your device.
 For smoother AR performance, use **Release Mode** and reduce unused 3D assets during testing.
 
 ---
-🖼️ Prototype Pics
+
+### 🖼️ Prototype Pics
+
+
+<br><br> <!-- Adds vertical space for cleaner layout -->
+
+
 ![WhatsApp Image 2025-10-11 at 17 36 05_9482ac36](https://github.com/user-attachments/assets/bc129bb5-b87f-4236-a2f7-0c5f0922d461)
+
 ![WhatsApp Image 2025-10-11 at 17 36 57_aa3ecd36](https://github.com/user-attachments/assets/f85e7719-5a22-4058-8d89-eacdead5bc4a)
+
 ![WhatsApp Image 2025-10-13 at 00 11 52_ceceb179](https://github.com/user-attachments/assets/e4a799f3-6a17-47b9-814e-8185365e0e25)
+
 ![WhatsApp Image 2025-10-13 at 00 12 00_1b063f4f](https://github.com/user-attachments/assets/efbae163-aeba-40aa-ac68-68a9ece29ffe)
+
+<br><br> <!-- Adds more breathing room after the image gallery -->
+
 ---
 
 
