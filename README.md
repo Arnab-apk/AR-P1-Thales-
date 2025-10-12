@@ -154,9 +154,81 @@ Follow these steps to build and test **OrbitEd-AR** on your Android or iOS devic
 
 ---
 
+---
+
 ### ⚙️ Setup Instructions
 
+Follow these steps to set up and run **OrbitEd-AR** seamlessly on your device.
+
+---
+
 #### 🖥️ Step 1: Clone the Repository
-```bash
-git clone https://github.com/<your-username>/OrbitEd-AR.git
-cd OrbitEd-AR
+
+- Open **GitHub Desktop** or download the repository ZIP from the main page  
+- Extract or open the project folder named **OrbitEd-AR**
+
+---
+
+#### 🧱 Step 2: Open in Unity
+
+1. Launch **Unity Hub**  
+2. Click **➕ Add Project → Select Folder** and choose the cloned folder  
+3. Set the **Build Platform** to **Android** or **iOS**  
+4. Install the following packages from the **Package Manager**:  
+   - 🛰️ **AR Foundation**  
+   - 📱 **ARCore XR Plugin** (Android) / **ARKit XR Plugin** (iOS)  
+   - 🌐 **Localization Package**
+
+---
+
+#### 🚀 Step 3: Configure Build Settings
+
+1. Go to **File → Build Settings**  
+2. Select your target platform (**Android / iOS**)  
+3. Click **Switch Platform**  
+4. Add all necessary scenes to **Scenes in Build**  
+5. Update **Company Name**, **Product Name**, and **Version** in *Project Settings → Player*
+
+---
+
+#### 📲 Step 4: Connect Device & Build
+
+1. Enable **Developer Mode** on your mobile device  
+2. Connect your device via **USB**  
+3. In Unity, click **Build and Run**  
+4. Wait for the build process to complete — the app will install automatically  
+
+> ✅ Once launched, you’ll see the **AR onboarding screen**, ready for immersive learning!
+
+---
+
+🎯 **Tip:**  
+For smoother AR performance, use **Release Mode** and reduce unused 3D assets during testing.
+
+---
+🖼️ Prototype Pics
+![WhatsApp Image 2025-10-11 at 17 36 05_9482ac36](https://github.com/user-attachments/assets/bc129bb5-b87f-4236-a2f7-0c5f0922d461)
+![WhatsApp Image 2025-10-11 at 17 36 57_aa3ecd36](https://github.com/user-attachments/assets/f85e7719-5a22-4058-8d89-eacdead5bc4a)
+![WhatsApp Image 2025-10-13 at 00 11 52_ceceb179](https://github.com/user-attachments/assets/e4a799f3-6a17-47b9-814e-8185365e0e25)
+![WhatsApp Image 2025-10-13 at 00 12 00_1b063f4f](https://github.com/user-attachments/assets/efbae163-aeba-40aa-ac68-68a9ece29ffe)
+---
+
+
+## 🪐 Team EdOrbit Vision
+
+> “To make aerospace and cybersecurity education accessible, inclusive, and exciting for every learner through immersive **Augmented Reality** and intelligent **on-device AI**.”
+
+---
+
+## 💬 Contact
+
+| Type | Details |
+|------|----------|
+| 📧 **Email** | arnabmandal261@gmail.com |
+| 🌐 **GitHub** | [github.com/Team-EdOrbit](https://github.com/Team-EdOrbit) |
+| 🛰️ **Project Repository** | [OrbitEd-AR](https://github.com/Arnab-apk/Gentech_Thales_Prototype) |
+
+---
+
+✨ *Team EdOrbit — Inspiring the next generation of aerospace and cybersecurity innovators through AR and AI.*  
+
