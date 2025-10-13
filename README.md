@@ -250,7 +250,7 @@ For smoother AR performance, use **Release Mode** and reduce unused 3D assets du
 <p align="center">
   <i>Try the latest prototype build of <b>OrbitEd-AR</b> on your Android device.</i><br>
   <b>Note:</b> This APK is for demonstration and educational purposes only.  
-  Make sure to enable <code>Install from Unknown Sources</code> in your Android settings before installing.
+  Make sure to enable <code>Install from Unknown Sources</code> in your Android settings before installing.Its better to have a wide open area for the sake of moving around the model as touch controls have not been improvise yet.
 </p>
 
 ---
