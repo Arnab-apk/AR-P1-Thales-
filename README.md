@@ -239,6 +239,23 @@ For smoother AR performance, use **Release Mode** and reduce unused 3D assets du
 
 ---
 
+### 📦 Download & Try It Yourself
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1hp6nS1xXzqksAEokOocT0E3v5u-LuQC4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/⬇️_Download_APK-OrbitEd--AR-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK Badge">
+  </a>
+</p>
+
+<p align="center">
+  <i>Try the latest prototype build of <b>OrbitEd-AR</b> on your Android device.</i><br>
+  <b>Note:</b> This APK is for demonstration and educational purposes only.  
+  Make sure to enable <code>Install from Unknown Sources</code> in your Android settings before installing.
+</p>
+
+---
+
+
 
 ## 🪐 Team EdOrbit Vision
 
