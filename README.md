@@ -267,7 +267,7 @@ For smoother AR performance, use **Release Mode** and reduce unused 3D assets du
 
 | Type | Details |
 |------|----------|
-| 📧 **Email** | arnabmandal261@gmail.com |
+| 📧 **Email** | arnabmandal261@gmail.com & debaditya9000@gmail.com|
 | 🌐 **GitHub** | [github.com/Team-EdOrbit](https://github.com/Team-EdOrbit) |
 | 🛰️ **Project Repository** | [OrbitEd-AR](https://github.com/Arnab-apk/Gentech_Thales_Prototype) |
 
